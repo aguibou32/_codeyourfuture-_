@@ -59,7 +59,7 @@
                                     <p>At the end of your formation you will be able to create professional, scallable
                                         web applications like this one.
                                         <a href="#" class="btn hero-btn" data-animation="fadeInLeft"
-                                            data-delay="0.7s">Join Now</a>
+                                            data-delay="0.7s">Join Now and Book for an Instructor</a>
                                     </p>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                         skills in programming languanges from bigginer to advance level, obtain a
                                         certificate that will get you a job within days.</p>
                                     <a href="#" class="btn hero-btn" data-animation="fadeInLeft" data-delay="0.7s">Join
-                                        Now</a></p>
+                                        Now and Book for an Instructor</a></p>
                                 </div>
                             </div>
                             <div class="col-xl-1 col-lg-1 col-md-1">
@@ -123,7 +123,7 @@
                             <div class="features-caption">
                                 <h3>5 + programming courses</h3>
                                 <p>Ranging from the front-end development: html, css, javaScript. </br> To backend
-                                    development with PHP, MySql </br>
+                                    development with PHP, MySQL </br>
                                     And php frameworks: php laravel </br>
                                     Additional programing languages: Java, Python.</p>
                             </div>
@@ -299,7 +299,7 @@
 
                     <div class="section-tittle section-tittle2 mb-20">
                         <div class="front-text">
-                            <h2 class="">Learner outcomes on courses you will take</h2>
+                            <h2 class="">Learner outcomes on the courses you will take</h2>
                         </div>
                     </div>
                     <div class="single-features">
@@ -307,7 +307,7 @@
                             <img src="{{ asset('front-end/assets/img/icon/right-icon.svg') }}" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Techniques to engage effectively with vulnerable children and young people.</p>
+                            <p>Develop your problem-solving skills</p>
                         </div>
                     </div>
                     <div class="single-features">
@@ -315,8 +315,7 @@
                             <img src="{{ asset('front-end/assets/img/icon/right-icon.svg') }}" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Join millions of people from around the world
-                                learning together.</p>
+                            <p>Develop your creativity, algorithmic, sequential and computational thinking skills</p>
                         </div>
                     </div>
                     <div class="single-features">
@@ -324,8 +323,15 @@
                             <img src="{{ asset('front-end/assets/img/icon/right-icon.svg') }}" alt="">
                         </div>
                         <div class="features-caption">
-                            <p>Join millions of people from around the world learning together.
-                                Online learning is as easy and natural.</p>
+                            <p>Build your portfolio in your chosing programing language with us</p>
+                        </div>
+                    </div>
+                    <div class="single-features">
+                        <div class="features-icon">
+                            <img src="{{ asset('front-end/assets/img/icon/right-icon.svg') }}" alt="">
+                        </div>
+                        <div class="features-caption">
+                            <p>Build projects to put on your portfolio that gives you more chance</p>
                         </div>
                     </div>
                 </div>
@@ -351,7 +357,8 @@
                         </div>
                         <div class="cat-cap">
                             <h5><a href="services.html">Mr. Barry</a></h5>
-                            <p>The automated process all your website tasks.</p>
+                            <p>Computer Science graduate, full stack developper, more than 3 years experience with
+                                PHP/Laravel.</p>
                         </div>
                     </div>
                 </div>
@@ -377,7 +384,7 @@
                                 with us.</h2>
                             <p>The automated process all your website tasks. Discover tools and techniques to engage
                                 effectively with vulnerable children and young people.</p>
-                            <a href="#" class="btn">Join now for Free</a>
+                            <a href="#" class="btn">Join Now and Book for an Instructor</a>
                         </div>
                     </div>
                 </div>
